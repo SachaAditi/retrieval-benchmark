@@ -1,9 +1,9 @@
 Query,BM25_Top_Result,Vector_Top_Result
-startup founders,Stanford,University_64
-artificial intelligence,University of Toronto,University_50
-robotics research,MIT,University_42
-machine learning,UC Berkeley,University_91
-engineering education,Georgia Tech,University_46
-autonomous robots,Cambridge,University_12
-innovation hub,Cambridge,University_47
-data analytics,UC Berkeley,University_43
+startup founders,University_100,University_64
+artificial intelligence,University_100,University_50
+robotics research,University_82,University_42
+machine learning,University_81,University_91
+engineering education,University_100,University_46
+autonomous robots,University_99,University_12
+innovation hub,University_97,University_47
+data analytics,University_83,University_43

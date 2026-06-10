@@ -2,7 +2,7 @@ import pandas as pd
 from rank_bm25 import BM25Okapi
 
 # Load dataset
-df = pd.read_csv("data/universities.csv")
+df = pd.read_csv("data/universities_large.csv")
 
 # Convert descriptions into documents
 documents = df["description"].tolist()
@@ -35,4 +35,3 @@ while True:
         print(
             f"- {df.iloc[idx]['name']} ({df.iloc[idx]['country']})"
         )
-        
